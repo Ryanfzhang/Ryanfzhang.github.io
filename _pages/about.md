@@ -29,48 +29,45 @@ My research interests include:
 
 
 # 📝 Publications 
+## Preprints
+
+- **Mitigating Overestimation in Offline Reinforcement Learning via Inhibiting Error Exacerbation with Data Sparsity. \[IEEE Transactions on Neural Networks and Learning Systems\]\[under review\]** 
+  **Fan Zhang**, Wenyu Chen, Mingsheng Fu, Siying Wang, Jingyun Xu, Hong Qu#, Zhang Yi.
+  
+- **Class-Agnostic Counting and Localization with Feature Augmentation and Scale-Adaptive Aggregation. \[Knowledge-Based Systems\]\[Minor Revision\]**  
+  Chao Zhai, Yuhui Du, Hong Qu, Tianlei Wang, **Fan Zhang**, Mingsheng Fu, Wenyu Chen#.
+  
+- **E-TCN: A Embedded Temporal Convolutional Network for Surface Chlorophyll-a Concentration Prediction in the South China Sea. ** 
+  Fa Zhang, Hiusuet Kung, Fan Zhang, Zhiwei Wang, Jianping Gan#, Can Yang#.
+  
 
 ## Publications
 - **QDAP: Downsizing adaptive policy for cooperative multi-agent reinforcement learning. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S095070512400354X?via%3Dihub)\]**
-
   Zhitong Zhao, Ya Zhang, Siying Wang, **Fan Zhang**, Malu Zhang, Wenyu Chen.
-
   *Knowledge-Based Systems, 2024, 294: 111719*
 
 - **A novel self-supervised representation learning framework based on time-frequency alignment and interaction for mechanical fault diagnosis. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705124004805?via%3Dihub)\]**
-
   Daxing Fu, Jie Liu, Hao Zhong, Xin Zhang#, **Fan Zhang**.
-
   *Knowledge-Based Systems, 2024: 111846*
 
 - **A pruned-optimized weighted graph convolutional network for axial flow pump fault diagnosis with hydrophone signals. \[[Advanced Engineering Informatics](https://www.sciencedirect.com/science/article/pii/S1474034624000132?via%3Dihub)\]**
-
   Xin Zhang, Li Jiang, Lei Wang, Tianao Zhang, **Fan Zhang**.
-
   *Advanced Engineering Informatics, 2024, 60: 102365*
 
 - **Regularization-Adapted Anderson Acceleration for multi-agent reinforcement learning. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705123004598?via%3Dihub)\]**
-
   Siying Wang, Wenyu Chen, Liwei Huang, **Fan Zhang**, Zhitong Zhao, Hong Qu#.
-
   *Knowledge-Based Systems.  Knowledge-Based Systems, 2023, 275: 110709.*
 
 - **Neural Reranking-Based Collaborative Filtering by Leveraging Listwise Relative Ranking Information. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9834323)\]**
-
   Fan Li, Hong Qu#, Mingsheng Fu, Liyan Zhang, **Fan Zhang**, Wenyu Chen, Ruixuan Sun, Haixian Zhang.
-
   *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2023, 53(2): 882-896.*
 
 - **Improving Exploration in Actor-Critic with Weakly-pessimistic Value Estimation and Optimistic Policy Optimization. \[[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/document/9932556)\]**
-
   Fan Li, Mingsheng Fu#, Wenyu Chen, **Fan Zhang**, Haixian Zhang, Hong Qu#, Zhang Yi.
-
   *IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3215596.*
 
 - **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9657486)\]**
-
   **Fan Zhang**, Wenyu Chen, Mingsheng Fu, Fan Li, Hong Qu#, Zhang Yi.
-  
   *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2022, 52(9): 5770-5782.*
 
 
@@ -85,23 +82,7 @@ My research interests include:
 
 
 
-## Preprints
 
-- **Mouse lemur transcriptomic atlas elucidates primate genes, physiology, disease, and evolution. \[[bioRxiv](https://doi.org/10.1101/2022.08.06.503035)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
-  
-  **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Jingsi Ming, Lisbeth A. Guethlein, Michael F.Z. Wang, Roozbeh Dehghannasiri, Julia Olivieri, Hannah K. Frank, Alexander Tarashansky, Winston Koh, Qiuyu Jing, Olga Botvinnik, Jane Antony, Stephen Chang, Angela Oliveira Pisco, Jim Karkanias, Can Yang, James E. Ferrell Jr., Scott D. Boyd, Peter Parham, Jonathan Z. Long, Bo Wang, Julia Salzman, Iwijn De Vlaminck, Angela Wu, Stephen R. Quake#, Mark A. Krasnow#.
-  
-  †Gefei Wang is a member of the Tabula Microcebus Consortium.
-  
-  *bioRxiv 2022; doi: https://doi.org/10.1101/2022.08.06.503035.*
-  
-- **Tabula Microcebus: A transcriptomic cell atlas of mouse lemur, an emerging primate model organism. \[[bioRxiv](https://doi.org/10.1101/2021.12.12.469460)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
-  
-  **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Olga Botvinnik, Lolita Penland, Alexander Tarashansky, Antoine de Morree,  Kyle J. Travaglini, Kazuteru Hasegawa, Hosu Sin, Rene Sit, Jennifer Okamoto, Rahul Sinha, Yue Zhang, Caitlin J. Karanewsky, Jozeph L. Pendleton, Maurizio Morri, Martine Perret, Fabienne Aujard, Lubert Stryer, Steven Artandi, Margaret Fuller, Irving L. Weissman, Thomas A. Rando, James E. Ferrell Jr., Bo Wang, Iwijn De Vlaminck, Can Yang, Kerriann M. Casey, Megan A. Albertelli, Angela Oliveira Pisco, Jim Karkanias, Norma Neff,  Angela Wu, Stephen R. Quake#, Mark A. Krasnow#. 
-  
-  †Gefei Wang is a member of the Tabula Microcebus Consortium.
-  
-  *bioRxiv 2021; doi: https://doi.org/10.1101/2021.12.12.469460.*
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
