@@ -25,8 +25,8 @@ My research interests include:
 
 
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
+- *2024.10*: 🎉 Join YangLab@HKUST as Postdoctoral Associate.
+
 
 # 📝 Publications 
 
