@@ -19,7 +19,9 @@ redirect_from:
 
 I am currently a postdoctoral associate in the Department of Mathematics at Hong Kong University of Science and Technology, jointly advised by Prof. [Can Yang](https://sites.google.com/site/eeyangc/) and Prof. [Jianping Gan](https://www.math.hkust.edu.hk/people/faculty/profile/magan/). I completed my Ph.D. at the University of Electronic Science and Technology of China, under the supervision of Prof. [Wenyu Chen](https://www.researchgate.net/profile/Wenyu-Chen-10) and Prof. [Hong Qu](https://www.researchgate.net/profile/Hong-Qu-4). I received my Bachelor degree at the University of Electronic Science and Technology of China, advised by Prof. [Hancong Duan](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10880?yxsh=08).
 
-My research interests include AI for scientific discovery and reinforcement learning.
+My research interests include:
+1) **AI for scientific discovery**: discover scientific theories or concept from noisy observational data, with Application in Ocean and life science.
+2) **reinforcement learning**: offline reinforcement learning.
 
 
 
