@@ -32,7 +32,7 @@ My research interests include:
 
 ## Publications
 
-- **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems]](https://ieeexplore.ieee.org/document/9657486)\] **
+- **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9657486)\] **
 
   **Gefei Wang**\*, Jia Zhao\*, Yan Yan, Yang Wang, Angela Ruohao Wu#, Can Yang#.
   
