@@ -31,24 +31,23 @@ My research interests include:
 # 📝 Publications 
 
 ## Publications
+- **QDAP: Downsizing adaptive policy for cooperative multi-agent reinforcement learning. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S095070512400354X?via%3Dihub)\]**
 
-- **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9657486)\]**
+  Zhitong Zhao, Ya Zhang, Siying Wang, **Fan Zhang**, Malu Zhang, Wenyu Chen.
 
-  **Fan Zhang**, Wenyu Chen, Mingsheng Fu, Fan Li, Hong Qu#, Zhang Yi.
-  
-  *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2022, 52(9): 5770-5782.*
+  *Knowledge-Based Systems, 2024, 294: 111719*
 
-- **Improving Exploration in Actor-Critic with Weakly-pessimistic Value Estimation and Optimistic Policy Optimization. \[[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/document/9932556)\]**
+- **A novel self-supervised representation learning framework based on time-frequency alignment and interaction for mechanical fault diagnosis. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705124004805?via%3Dihub)\]**
 
-  Fan Li, Mingsheng Fu#, Wenyu Chen, **Fan Zhang**, Haixian Zhang, Hong Qu#, Zhang Yi.
+  Daxing Fu, Jie Liu, Hao Zhong, Xin Zhang#, **Fan Zhang**.
 
-  *IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3215596.*
+  *Knowledge-Based Systems, 2024: 111846*
 
-- **Neural Reranking-Based Collaborative Filtering by Leveraging Listwise Relative Ranking Information. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9834323)\]**
+- **A pruned-optimized weighted graph convolutional network for axial flow pump fault diagnosis with hydrophone signals. \[[Advanced Engineering Informatics](https://www.sciencedirect.com/science/article/pii/S1474034624000132?via%3Dihub)\]**
 
-  Fan Li, Hong Qu#, Mingsheng Fu, Liyan Zhang, **Fan Zhang**, Wenyu Chen, Ruixuan Sun, Haixian Zhang.
+  Xin Zhang, Li Jiang, Lei Wang, Tianao Zhang, **Fan Zhang**.
 
-  *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2023, 53(2): 882-896.*
+  *Advanced Engineering Informatics, 2024, 60: 102365*
 
 - **Regularization-Adapted Anderson Acceleration for multi-agent reinforcement learning. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705123004598?via%3Dihub)\]**
 
@@ -56,23 +55,35 @@ My research interests include:
 
   *Knowledge-Based Systems.  Knowledge-Based Systems, 2023, 275: 110709.*
 
-- **A pruned-optimized weighted graph convolutional network for axial flow pump fault diagnosis with hydrophone signals. \[[Advanced Engineering Informatics](https://www.sciencedirect.com/science/article/pii/S1474034624000132?via%3Dihub)\]**
+- **Neural Reranking-Based Collaborative Filtering by Leveraging Listwise Relative Ranking Information. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9834323)\]**
 
-  Xin Zhang, Li Jiang, Lei Wang, Tianao Zhang, **Fan Zhang**.
+  Fan Li, Hong Qu#, Mingsheng Fu, Liyan Zhang, **Fan Zhang**, Wenyu Chen, Ruixuan Sun, Haixian Zhang.
 
-  *Advanced Engineering Informatics, 2024, 60: 102365*
+  *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2023, 53(2): 882-896.*
+
+- **Improving Exploration in Actor-Critic with Weakly-pessimistic Value Estimation and Optimistic Policy Optimization. \[[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/document/9932556)\]**
+
+  Fan Li, Mingsheng Fu#, Wenyu Chen, **Fan Zhang**, Haixian Zhang, Hong Qu#, Zhang Yi.
+
+  *IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3215596.*
+
+- **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9657486)\]**
+
+  **Fan Zhang**, Wenyu Chen, Mingsheng Fu, Fan Li, Hong Qu#, Zhang Yi.
   
-- **A novel self-supervised representation learning framework based on time-frequency alignment and interaction for mechanical fault diagnosis. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705124004805?via%3Dihub)\]**
+  *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2022, 52(9): 5770-5782.*
 
-  Daxing Fu, Jie Liu, Hao Zhong, Xin Zhang#, **Fan Zhang**.
 
-  *Knowledge-Based Systems, 2024: 111846*
 
-- **QDAP: Downsizing adaptive policy for cooperative multi-agent reinforcement learning. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S095070512400354X?via%3Dihub)\]**
 
-  Zhitong Zhao, Ya Zhang, Siying Wang, **Fan Zhang**, Malu Zhang, Wenyu Chen.
 
-  *Knowledge-Based Systems, 2024, 294: 111719*
+
+
+
+  
+
+
+
 
 ## Preprints
 
