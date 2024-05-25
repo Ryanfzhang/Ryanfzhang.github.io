@@ -19,7 +19,9 @@ redirect_from:
 
 I am currently a postdoctoral associate in the Department of Mathematics at Hong Kong University of Science and Technology, jointly advised by Prof. [Can Yang](https://sites.google.com/site/eeyangc/) and Prof. [Jianping Gan](https://www.math.hkust.edu.hk/people/faculty/profile/magan/). I completed my Ph.D. at the University of Electronic Science and Technology of China, under the supervision of Prof. [Wenyu Chen](https://www.researchgate.net/profile/Wenyu-Chen-10) and Prof. [Hong Qu](https://www.researchgate.net/profile/Hong-Qu-4). I received my Bachelor degree at the University of Electronic Science and Technology of China, advised by Prof. [Hancong Duan](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10880?yxsh=08).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include AI4Science and reinforcement learning.
+
+
 
 
 # 🔥 News
