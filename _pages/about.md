@@ -88,10 +88,6 @@ My research interests include:
   *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2022, 52(9): 5770-5782.*
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 💻 Professional Experience
 - *2023.10 - Now*, Postdoctoral Associate, The Hong Kong University of Science and Technology.
   
@@ -100,8 +96,10 @@ My research interests include:
 - *2013.09 - 2017.06*, B.Sc. in Computer Science and Technology, The University of Electronic Science and Technology of China.
 
 # 💬 Service
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+**Invited Journal Reviewer**:
+- Advanced Engineering Informatics
+**Invited Conference Reviewer**:
+- IJCNN (2021, 2022)
 
 # 📖 Teaching
-
+- 2019.09-2020.06, Finite Automata Theory, Teaching Assistant, UESTC.
