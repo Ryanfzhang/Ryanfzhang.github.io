@@ -23,16 +23,11 @@ My research interests include:
 1. **AI for Scientific Discovery**: discover scientific concept from noisy observational data, with application in Ocean and life science.
 2. **Reinforcement Learning**: offline reinforcement learning, multi-agent reinforcement learning.
 
-## 💻 Professional Experience
+# 💻 Professional Experience
 *2023.10 - Now*, Postdoctoral Associate, The Hong Kong University of Science and Technology.
-## 🎓 Education
+# 🎓 Education
 - *2017.09 - 2023.08*, Ph.D. in Computer Science and Technology, The University of Electronic Science and Technology of China.
 - *2013.09 - 2017.06*, B.Sc. in Computer Science and Technology, The University of Electronic Science and Technology of China.
-
-# 🔥 News
-- *2023.10*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
 
 # 📝 Publications 
 
