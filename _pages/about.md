@@ -23,18 +23,12 @@ My research interests include:
 1. **AI for Scientific Discovery**: discover scientific concept from noisy observational data, with application in Ocean and life science.
 2. **Reinforcement Learning**: offline reinforcement learning, multi-agent reinforcement learning.
 
-My Professional Experience
+# 💻 Professional Experience
 - *2023.10 - Now*, Postdoctoral Associate, The Hong Kong University of Science and Technology.
-My Education Experience
+# 🎓 Education
 - *2017.09 - 2023.08*, Ph.D. in Computer Science and Technology, The University of Electronic Science and Technology of China.
 - *2013.09 - 2017.06*, B.Sc. in Computer Science and Technology, The University of Electronic Science and Technology of China.
 
-# 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
 
 # 📝 Publications 
 
