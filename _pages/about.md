@@ -24,7 +24,7 @@ My research interests include:
 2. **Reinforcement Learning**: offline reinforcement learning, multi-agent reinforcement learning.
 
 # 💻 Professional Experience
-*2023.10 - Now*, Postdoctoral Associate, The Hong Kong University of Science and Technology.
+- *2023.10 - Now*, Postdoctoral Associate, The Hong Kong University of Science and Technology.
 # 🎓 Education
 - *2017.09 - 2023.08*, Ph.D. in Computer Science and Technology, The University of Electronic Science and Technology of China.
 - *2013.09 - 2017.06*, B.Sc. in Computer Science and Technology, The University of Electronic Science and Technology of China.
