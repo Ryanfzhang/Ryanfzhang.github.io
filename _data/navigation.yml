@@ -3,17 +3,20 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Professional Experience"
-    url: "/#-professional-experience"
-
-  - title: "Education"
-    url: "/#-education"
+  - title: "News"
+    url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
+
+  - title: "Professional Experience"
+    url: "/#-professional-experience"
+
+  - title: "Education"
+    url: "/#-education"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
