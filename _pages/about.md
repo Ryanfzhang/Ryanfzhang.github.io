@@ -52,7 +52,7 @@ My research interests include:
 
 - **Regularization-Adapted Anderson Acceleration for multi-agent reinforcement learning. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705123004598?via%3Dihub)\]**
 
-  Siying Wang, Wenyu Chen, Liwei Huang, **Fan Zhang**, Zhitong Zhao, Hong Qu.
+  Siying Wang, Wenyu Chen, Liwei Huang, **Fan Zhang**, Zhitong Zhao, Hong Qu#.
 
   *Knowledge-Based Systems.  Knowledge-Based Systems, 2023, 275: 110709.*
 
@@ -60,7 +60,19 @@ My research interests include:
 
   Xin Zhang, Li Jiang, Lei Wang, Tianao Zhang, **Fan Zhang**.
 
-  *KAdvanced Engineering Informatics, 2024, 60: 102365*
+  *Advanced Engineering Informatics, 2024, 60: 102365*
+  
+- **A novel self-supervised representation learning framework based on time-frequency alignment and interaction for mechanical fault diagnosis. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705124004805?via%3Dihub)\]**
+
+  Daxing Fu, Jie Liu, Hao Zhong, Xin Zhang#, **Fan Zhang**.
+
+  *Knowledge-Based Systems, 2024: 111846*
+
+- **QDAP: Downsizing adaptive policy for cooperative multi-agent reinforcement learning. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S095070512400354X?via%3Dihub)\]**
+
+  Zhitong Zhao, Ya Zhang, Siying Wang, **Fan Zhang**, Malu Zhang, Wenyu Chen.
+
+  *Knowledge-Based Systems, 2024, 294: 111719*
 
 ## Preprints
 
