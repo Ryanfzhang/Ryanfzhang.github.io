@@ -50,13 +50,13 @@ My research interests include:
 
   *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2023, 53(2): 882-896.*
 
-  - **Regularization-Adapted Anderson Acceleration for multi-agent reinforcement learning. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705123004598?via%3Dihub)\]**
+- **Regularization-Adapted Anderson Acceleration for multi-agent reinforcement learning. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705123004598?via%3Dihub)\]**
 
   Siying Wang, Wenyu Chen, Liwei Huang, **Fan Zhang**, Zhitong Zhao, Hong Qu.
 
   *Knowledge-Based Systems.  Knowledge-Based Systems, 2023, 275: 110709.*
 
-  - **A pruned-optimized weighted graph convolutional network for axial flow pump fault diagnosis with hydrophone signals. \[[Advanced Engineering Informatics](https://www.sciencedirect.com/science/article/pii/S1474034624000132?via%3Dihub)\]**
+- **A pruned-optimized weighted graph convolutional network for axial flow pump fault diagnosis with hydrophone signals. \[[Advanced Engineering Informatics](https://www.sciencedirect.com/science/article/pii/S1474034624000132?via%3Dihub)\]**
 
   Xin Zhang, Li Jiang, Lei Wang, Tianao Zhang, **Fan Zhang**.
 
