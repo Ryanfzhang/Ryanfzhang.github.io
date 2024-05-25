@@ -30,20 +30,43 @@ My research interests include:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Publications
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems]](https://ieeexplore.ieee.org/document/9657486)\] **
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  **Gefei Wang**\*, Jia Zhao\*, Yan Yan, Yang Wang, Angela Ruohao Wu#, Can Yang#.
+  
+  *Nature Machine Intelligence. 2023, 5(11): 1200–1213.*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- **Adversarial domain translation networks for integrating large-scale atlas-level single-cell datasets. \[[Nature Computational Science](https://www.nature.com/articles/s43588-022-00251-y)\] \[[Read fulltext](https://rdcu.be/cOCbU)\] \[[bioRvix](https://doi.org/10.1101/2021.11.16.468892)\] \[[Blog](https://communities.springernature.com/posts/adversarial-domain-translation-networks-for-integrating-large-scale-atlas-level-single-cell-datasets)\] \[[Software](https://github.com/YangLabHKUST/Portal)\]**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+  Jia Zhao\*, **Gefei Wang**\*, Jingsi Ming, Zhixiang Lin, Yang Wang, The Tabula Microcebus Consortium†, Angela Ruohao Wu#, Can Yang#. †Gefei Wang is a member of the Tabula Microcebus Consortium.
 
+  *Nature Computational Science. 2022, 2(5): 317-330.*
+
+- **Deep Generative Learning via Schrödinger Bridge. \[[ICML](https://proceedings.mlr.press/v139/wang21l.html)\] \[[arXiv](https://arxiv.org/abs/2106.10410)\] \[[Code](https://github.com/YangLabHKUST/DGLSB)\]**
+
+  **Gefei Wang**, Yuling Jiao#, Qian Xu, Yang Wang, Can Yang#.
+
+  *International Conference on Machine Learning. 2021, 10794-10804.*
+
+## Preprints
+
+- **Mouse lemur transcriptomic atlas elucidates primate genes, physiology, disease, and evolution. \[[bioRxiv](https://doi.org/10.1101/2022.08.06.503035)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
+  
+  **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Jingsi Ming, Lisbeth A. Guethlein, Michael F.Z. Wang, Roozbeh Dehghannasiri, Julia Olivieri, Hannah K. Frank, Alexander Tarashansky, Winston Koh, Qiuyu Jing, Olga Botvinnik, Jane Antony, Stephen Chang, Angela Oliveira Pisco, Jim Karkanias, Can Yang, James E. Ferrell Jr., Scott D. Boyd, Peter Parham, Jonathan Z. Long, Bo Wang, Julia Salzman, Iwijn De Vlaminck, Angela Wu, Stephen R. Quake#, Mark A. Krasnow#.
+  
+  †Gefei Wang is a member of the Tabula Microcebus Consortium.
+  
+  *bioRxiv 2022; doi: https://doi.org/10.1101/2022.08.06.503035.*
+  
+- **Tabula Microcebus: A transcriptomic cell atlas of mouse lemur, an emerging primate model organism. \[[bioRxiv](https://doi.org/10.1101/2021.12.12.469460)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
+  
+  **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Olga Botvinnik, Lolita Penland, Alexander Tarashansky, Antoine de Morree,  Kyle J. Travaglini, Kazuteru Hasegawa, Hosu Sin, Rene Sit, Jennifer Okamoto, Rahul Sinha, Yue Zhang, Caitlin J. Karanewsky, Jozeph L. Pendleton, Maurizio Morri, Martine Perret, Fabienne Aujard, Lubert Stryer, Steven Artandi, Margaret Fuller, Irving L. Weissman, Thomas A. Rando, James E. Ferrell Jr., Bo Wang, Iwijn De Vlaminck, Can Yang, Kerriann M. Casey, Megan A. Albertelli, Angela Oliveira Pisco, Jim Karkanias, Norma Neff,  Angela Wu, Stephen R. Quake#, Mark A. Krasnow#. 
+  
+  †Gefei Wang is a member of the Tabula Microcebus Consortium.
+  
+  *bioRxiv 2021; doi: https://doi.org/10.1101/2021.12.12.469460.*
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
