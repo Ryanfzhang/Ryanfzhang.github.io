@@ -39,7 +39,7 @@ My research interests include:
 
   Chao Zhai, Yuhui Du, Hong Qu, Tianlei Wang, **Fan Zhang**, Mingsheng Fu, Wenyu Chen#.
   
-- **E-TCN: A Embedded Temporal Convolutional Network for Surface Chlorophyll-a Concentration Prediction in the South China Sea. ** 
+- **E-TCN: A Embedded Temporal Convolutional Network for Surface Chlorophyll-a Concentration Prediction in the South China Sea.** 
 
   Fa Zhang, Hiusuet Kung, Fan Zhang, Zhiwei Wang, Jianping Gan#, Can Yang#.
   
