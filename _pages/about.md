@@ -32,11 +32,11 @@ My research interests include:
 
 ## Publications
 
-- **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9657486)\] **
+- **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9657486)\]**
 
-  **Gefei Wang**\*, Jia Zhao\*, Yan Yan, Yang Wang, Angela Ruohao Wu#, Can Yang#.
+  **Fan Zhang**, Wenyu Chen, Mingsheng Fu, Fan Li, Hong Qu#, Zhang Yi.
   
-  *Nature Machine Intelligence. 2023, 5(11): 1200–1213.*
+  *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2022, 52(9): 5770-5782.*
 
 - **Adversarial domain translation networks for integrating large-scale atlas-level single-cell datasets. \[[Nature Computational Science]](https://www.nature.com/articles/s43588-022-00251-y)\] \[[Read fulltext](https://rdcu.be/cOCbU)\] \[[bioRvix](https://doi.org/10.1101/2021.11.16.468892)\] \[[Blog](https://communities.springernature.com/posts/adversarial-domain-translation-networks-for-integrating-large-scale-atlas-level-single-cell-datasets)\] \[[Software](https://github.com/YangLabHKUST/Portal)\]**
 
