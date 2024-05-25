@@ -40,15 +40,15 @@ My research interests include:
 
 - **Improving Exploration in Actor-Critic with Weakly-pessimistic Value Estimation and Optimistic Policy Optimization. \[[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/document/9932556)\]**
 
-  Fan Li, Mingsheng Fu, Wenyu Chen, **Fan Zhang**, Haixian Zhang, Hong Qu#, Zhang Yi.
+  Fan Li, Mingsheng Fu#, Wenyu Chen, **Fan Zhang**, Haixian Zhang, Hong Qu#, Zhang Yi.
 
   *IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3215596.*
 
-- **Deep Generative Learning via Schrödinger Bridge. \[[ICML](https://proceedings.mlr.press/v139/wang21l.html)\] \[[arXiv](https://arxiv.org/abs/2106.10410)\] \[[Code](https://github.com/YangLabHKUST/DGLSB)\]**
+- **Neural Reranking-Based Collaborative Filtering by Leveraging Listwise Relative Ranking Information. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9834323)\]**
 
-  **Gefei Wang**, Yuling Jiao#, Qian Xu, Yang Wang, Can Yang#.
+  Fan Li, Hong Qu#, Mingsheng Fu, Liyan Zhang, **Fan Zhang**, Wenyu Chen, Ruixuan Sun, Haixian Zhang.
 
-  *International Conference on Machine Learning. 2021, 10794-10804.*
+  *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2023, 53(2): 882-896.*
 
 ## Preprints
 
