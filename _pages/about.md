@@ -25,7 +25,7 @@ My research interests include:
 
 
 # 🔥 News
-- *2024.10*: 🎉 Join YangLab@HKUST as Postdoctoral Associate.
+- *2023.10*: 🎉 Join YangLab@HKUST as Postdoctoral Associate.
 
 
 # 📝 Publications 
