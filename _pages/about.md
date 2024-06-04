@@ -47,31 +47,45 @@ My research interests include:
 ## Publications
 - **QDAP: Downsizing adaptive policy for cooperative multi-agent reinforcement learning. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S095070512400354X?via%3Dihub)\]**
 
-  Zhitong Zhao, Ya Zhang, Siying Wang, **Fan Zhang**, Malu Zhang, Wenyu Chen. *Knowledge-Based Systems, 2024, 294: 111719*
+  Zhitong Zhao, Ya Zhang, Siying Wang, **Fan Zhang**, Malu Zhang, Wenyu Chen.
+
+  *Knowledge-Based Systems, 2024, 294: 111719*
 
 - **A novel self-supervised representation learning framework based on time-frequency alignment and interaction for mechanical fault diagnosis. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705124004805?via%3Dihub)\]**
 
-  Daxing Fu, Jie Liu, Hao Zhong, Xin Zhang#, **Fan Zhang**. *Knowledge-Based Systems, 2024: 111846*
+  Daxing Fu, Jie Liu, Hao Zhong, Xin Zhang#, **Fan Zhang**.
+
+  *Knowledge-Based Systems, 2024: 111846*
 
 - **A pruned-optimized weighted graph convolutional network for axial flow pump fault diagnosis with hydrophone signals. \[[Advanced Engineering Informatics](https://www.sciencedirect.com/science/article/pii/S1474034624000132?via%3Dihub)\]**
 
-  Xin Zhang, Li Jiang, Lei Wang, Tianao Zhang, **Fan Zhang**. *Advanced Engineering Informatics, 2024, 60: 102365*
+  Xin Zhang, Li Jiang, Lei Wang, Tianao Zhang, **Fan Zhang**.
+
+  *Advanced Engineering Informatics, 2024, 60: 102365*
 
 - **Regularization-Adapted Anderson Acceleration for multi-agent reinforcement learning. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705123004598?via%3Dihub)\]**
 
-  Siying Wang, Wenyu Chen, Liwei Huang, **Fan Zhang**, Zhitong Zhao, Hong Qu#. *Knowledge-Based Systems.  Knowledge-Based Systems, 2023, 275: 110709.*
+  Siying Wang, Wenyu Chen, Liwei Huang, **Fan Zhang**, Zhitong Zhao, Hong Qu#.
+
+  *Knowledge-Based Systems.  2023, 275: 110709.*
 
 - **Neural Reranking-Based Collaborative Filtering by Leveraging Listwise Relative Ranking Information. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9834323)\]**
 
-  Fan Li, Hong Qu#, Mingsheng Fu, Liyan Zhang, **Fan Zhang**, Wenyu Chen, Ruixuan Sun, Haixian Zhang. *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2023, 53(2): 882-896.*
+  Fan Li, Hong Qu#, Mingsheng Fu, Liyan Zhang, **Fan Zhang**, Wenyu Chen, Ruixuan Sun, Haixian Zhang.
+
+  *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2023, 53(2): 882-896.*
 
 - **Improving Exploration in Actor-Critic with Weakly-pessimistic Value Estimation and Optimistic Policy Optimization. \[[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/document/9932556)\]**
 
-  Fan Li, Mingsheng Fu#, Wenyu Chen, **Fan Zhang**, Haixian Zhang, Hong Qu#, Zhang Yi. *IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3215596.*
+  Fan Li, Mingsheng Fu#, Wenyu Chen, **Fan Zhang**, Haixian Zhang, Hong Qu#, Zhang Yi.
+
+  *IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3215596.*
 
 - **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9657486)\]**
 
-  **Fan Zhang**, Wenyu Chen, Mingsheng Fu, Fan Li, Hong Qu#, Zhang Yi. *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2022, 52(9): 5770-5782.*
+  **Fan Zhang**, Wenyu Chen, Mingsheng Fu, Fan Li, Hong Qu#, Zhang Yi.
+
+  *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2022, 52(9): 5770-5782.*
 
 
 # 💻 Professional Experience
