@@ -35,9 +35,6 @@ My research interests include:
    
   **Fan Zhang**, Wenyu Chen, Mingsheng Fu, Siying Wang, Jingyun Xu, Hong Qu#, Zhang Yi.
   
-- **Class-Agnostic Counting and Localization with Feature Augmentation and Scale-Adaptive Aggregation. \[Knowledge-Based Systems\]\[Minor Revision\]**  
-
-  Chao Zhai, Yuhui Du, Hong Qu, Tianlei Wang, **Fan Zhang**, Mingsheng Fu, Wenyu Chen#.
   
 - **E-TCN: A Embedded Temporal Convolutional Network for Surface Chlorophyll-a Concentration Prediction in the South China Sea.** 
 
@@ -45,6 +42,9 @@ My research interests include:
   
 
 ## Publications
+- **Class-Agnostic Counting and Localization with Feature Augmentation and Scale-Adaptive Aggregation. \[Knowledge-Based Systems\]**  
+
+  Chao Zhai, Yuhui Du, Hong Qu, Tianlei Wang, **Fan Zhang**, Mingsheng Fu, Wenyu Chen#.
 - **QDAP: Downsizing adaptive policy for cooperative multi-agent reinforcement learning. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S095070512400354X?via%3Dihub)\]**
 
   Zhitong Zhao, Ya Zhang, Siying Wang, **Fan Zhang**, Malu Zhang, Wenyu Chen.
