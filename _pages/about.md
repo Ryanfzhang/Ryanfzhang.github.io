@@ -31,9 +31,9 @@ My research interests include:
 # 📝 Publications 
 ## Preprints
 
-- **Mitigating Overestimation in Offline Reinforcement Learning via Inhibiting Error Exacerbation with Data Sparsity. \[IEEE Transactions on Neural Networks and Learning Systems\]\[under review\]**
+- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[IEEE Transactions on Cybernetics\]\[under review\]**
    
-  **Fan Zhang**, Wenyu Chen, Mingsheng Fu, Siying Wang, Jingyun Xu, Hong Qu#, Zhang Yi.
+  **Fan Zhang**, Wenyu Chen, et.al.
   
   
 - **E-TCN: A Embedded Temporal Convolutional Network for Surface Chlorophyll-a Concentration Prediction in the South China Sea.** 
