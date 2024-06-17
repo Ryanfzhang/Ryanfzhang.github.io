@@ -42,7 +42,7 @@ My research interests include:
   
 
 ## Publications
-- **Class-Agnostic Counting and Localization with Feature Augmentation and Scale-Adaptive Aggregation. \[Knowledge-Based Systems\]**  
+- **Class-Agnostic Counting and Localization with Feature Augmentation and Scale-Adaptive Aggregation. \[[Knowledge-Based Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4552869)\]**  
 
   Chao Zhai, Yuhui Du, Hong Qu, Tianlei Wang, **Fan Zhang**, Mingsheng Fu, Wenyu Chen#.
 - **QDAP: Downsizing adaptive policy for cooperative multi-agent reinforcement learning. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S095070512400354X?via%3Dihub)\]**
