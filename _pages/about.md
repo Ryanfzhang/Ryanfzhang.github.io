@@ -30,6 +30,10 @@ My research interests include:
 
 # 📝 Publications 
 ## Preprints
+- **GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks. \[arxiv\]**
+   
+  **Fan Zhang**, Xin Zhang#.
+
 
 - **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[IEEE Transactions on Cybernetics\]\[under review\]**
    
