@@ -37,7 +37,7 @@ My research interests include:
 
 - **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[IEEE Transactions on Cybernetics\]\[under review\]**
    
-  **Fan Zhang**, Wenyu Chen, et.al.
+  **Fan Zhang**, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li, Malu Zhang.
   
   
 - **E-TCN: A Embedded Temporal Convolutional Network for Surface Chlorophyll-a Concentration Prediction in the South China Sea.** 
