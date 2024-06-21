@@ -30,7 +30,7 @@ My research interests include:
 
 # 📝 Publications 
 ## Preprints
-- **GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks. \[arxiv\](https://arxiv.org/abs/2406.13597)**
+- **GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks. \[[arxiv](https://arxiv.org/abs/2406.13597)\]**
    
   **Fan Zhang**, Xin Zhang#.
 
