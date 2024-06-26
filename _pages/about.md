@@ -101,7 +101,7 @@ My research interests include:
 
 # 💬 Service
 **Invited Journal Reviewer**:
-- Advanced Engineering Informatics
+- IEEE Transactions on Cybernetics, Advanced Engineering Informatics
   
 **Invited Conference Reviewer**:
 - IJCNN (2021, 2022)
