@@ -30,12 +30,16 @@ My research interests include:
 
 # 📝 Publications 
 ## Preprints
+-**The deployment of parcel lockers based on the Pareto Deep Deterministic Policy Gradients。 \[Transportation\]\[under review\]**
+
+Yancun Song, Wenhao Pei, **Fan Zhang**, Chengcheng Yu, Qing Yu, Yingji Shi, Yonggang Shen#
+
 - **GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks. \[[arxiv](https://arxiv.org/abs/2406.13597)\]**
    
   **Fan Zhang**, Xin Zhang#.
 
 
-- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[IEEE Transactions on Cybernetics\]\[under review\]**
+- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[under review\]**
    
   **Fan Zhang**, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li, Malu Zhang.
   
