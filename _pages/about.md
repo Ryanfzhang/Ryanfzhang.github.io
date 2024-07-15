@@ -30,7 +30,7 @@ My research interests include:
 
 # 📝 Publications 
 ## Preprints
-- **The deployment of parcel lockers based on the Pareto Deep Deterministic Policy Gradients。 \[Transportation Research Part E\]\[under review\]**
+- **The deployment of parcel lockers based on the Pareto Deep Deterministic Policy Gradients. \[Transportation Research Part E\]\[under review\]**
 
   Yancun Song, Wenhao Pei, **Fan Zhang**, Chengcheng Yu, Qing Yu, Yingji Shi, Yonggang Shen#
 
