@@ -46,7 +46,7 @@ My research interests include:
   
 - **E-TCN: A Embedded Temporal Convolutional Network for Surface Chlorophyll-a Concentration Prediction in the South China Sea.** 
 
-  Fa Zhang, Hiusuet Kung, Fan Zhang, Zhiwei Wang, Jianping Gan#, Can Yang#.
+  Fa Zhang, Hiusuet Kung, **Fan Zhang**, Zhiwei Wang, Jianping Gan#, Can Yang#.
   
 
 ## Publications
