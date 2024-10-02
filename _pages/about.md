@@ -46,7 +46,7 @@ My research interests include:
   
 - **E-TCN: A Embedded Temporal Convolutional Network for Surface Chlorophyll-a Concentration Prediction in the South China Sea.** 
 
-  Fa Zhang, Hiusuet Kung, **Fan Zhang**, Zhiwei Wang, Jianping Gan#, Can Yang#.
+  Fa Zhang, Hiusuet Kung, **Fan Zhang**, Zhiwei Wang, Can Yang#, Jianping Gan#.
   
 
 ## Publications
@@ -56,7 +56,7 @@ My research interests include:
 
   *Knowledge-Based Systems, 2024, 112104*
   
-- **QDAP: Downsizing adaptive policy for cooperative multi-agent reinforcement learning. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S095070512400354X?via%3Dihub)\]**
+- **QDAP: Downsizing adaptive policy for cooperative multi-agent reinforcement learning. \[[Knowledge-Based Systems](https://doi.org/10.1016/j.knosys.2024.111719)\]**
 
   Zhitong Zhao, Ya Zhang, Siying Wang, **Fan Zhang**, Malu Zhang, Wenyu Chen.
 
