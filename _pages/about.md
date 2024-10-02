@@ -30,6 +30,10 @@ My research interests include:
 
 # 📝 Publications 
 ## Preprints
+- **STIMP: AI-driven spatiotemporal imputation and prediction of chlorophyll-a concentration in coastal oceans**
+
+  **Fan Zhang**, Hiusuet Kung, Fa Zhang, Wenyu Chen, Can Yang#, Jianping Gan#.
+  
 - **The deployment of parcel lockers based on the Pareto Deep Deterministic Policy Gradients. \[Transportation Research Part E\]\[under review\]**
 
   Yancun Song, Wenhao Pei, **Fan Zhang**, Chengcheng Yu, Qing Yu, Yingji Shi, Yonggang Shen#
