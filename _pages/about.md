@@ -30,7 +30,7 @@ My research interests include:
 
 # 📝 Publications 
 ## Preprints
-- **STIMP: AI-driven spatiotemporal imputation and prediction of chlorophyll-a concentration in coastal oceans**
+- **AI-powered spatiotemporal imputation and prediction of chlorophyll-a concentration in coastal oceans2**
 
   **Fan Zhang**, Hiusuet Kung, Fa Zhang, Wenyu Chen, Can Yang#, Jianping Gan#.
   
@@ -50,7 +50,7 @@ My research interests include:
   
 - **E-TCN: A Embedded Temporal Convolutional Network for Surface Chlorophyll-a Concentration Prediction in the South China Sea.** 
 
-  Fa Zhang, Hiusuet Kung, **Fan Zhang**, Zhiwei Wang, Can Yang#, Jianping Gan#.
+  Fa Zhang, Hiusuet Kung, **Fan Zhang**, Zhiwei Wang, Jianping Gan#, Can Yang#.
   
 
 ## Publications
