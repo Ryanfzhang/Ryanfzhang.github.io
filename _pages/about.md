@@ -34,9 +34,6 @@ My research interests include:
 
   **Fan Zhang**, Hiusuet Kung, Fa Zhang, Wenyu Chen, Can Yang#, Jianping Gan#.
   
-- **The deployment of parcel lockers based on the Pareto Deep Deterministic Policy Gradients. \[Transportation Research Part E\]\[under review\]**
-
-  Yancun Song, Wenhao Pei, **Fan Zhang**, Chengcheng Yu, Qing Yu, Yingji Shi, Yonggang Shen#
 
 - **GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks. \[[arxiv](https://arxiv.org/abs/2406.13597)\]**
    
