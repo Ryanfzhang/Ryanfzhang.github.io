@@ -32,7 +32,7 @@ My research interests include:
 ## Preprints
 - **AI-powered spatiotemporal imputation and prediction of chlorophyll-a concentration in coastal oceans**
 
-  **Fan Zhang**, Hiusuet Kung, Fa Zhang, Wenyu Chen, Can Yang#, Jianping Gan#.
+  **Fan Zhang**, Hiusuet Kung, Fa Zhang, Can Yang#, Jianping Gan#.
   
 
 - **GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks. \[[arxiv](https://arxiv.org/abs/2406.13597)\]**
@@ -43,14 +43,14 @@ My research interests include:
   
   Chunlong Fu, **Fan Zhang#** , Luo Tong, Xin Zhang, Siying Wang, Guofang Liu, Teng Sheng
 
-- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[under review\]**
+- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[major revision\]**
    
   **Fan Zhang**, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li, Malu Zhang.
   
   
-- **E-TCN: A Embedded Temporal Convolutional Network for Surface Chlorophyll-a Concentration Prediction in the South China Sea.** 
+- **Taming the heterogeneous dynamics in ocean chlorophyll-a concentration prediction with a deep learning model.** 
 
-  Fa Zhang, Hiusuet Kung, **Fan Zhang**, Zhiwei Wang, Jianping Gan#, Can Yang#.
+  Fa Zhang, Hiusuet Kung, **Fan Zhang**, Zhiwei Wang, Can Yang#, Jianping Gan#.
   
 
 ## Publications
