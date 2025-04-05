@@ -30,7 +30,7 @@ My research interests include:
 
 # 📝 Publications 
 ## Preprints
-- **AI-powered spatiotemporal imputation and prediction of chlorophyll-a concentration in coastal oceans**
+- **AI-powered spatiotemporal imputation and prediction of chlorophyll-a concentration in coastal oceans  \[under review\]**
 
   **Fan Zhang**, Hiusuet Kung, Fa Zhang, Can Yang#, Jianping Gan#.
   
