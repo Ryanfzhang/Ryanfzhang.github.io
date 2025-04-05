@@ -41,11 +41,11 @@ My research interests include:
 
 - **Pessimistic Auxiliary Policy for Offline Reinforcement Learning. \[under review\]**
   
-  **Fan Zhang#** , Xin Xu, Xin Zhang, Siying Wang
+  **Fan Zhang** , Xin Xu, Xin Zhang, Siying Wang#
 
 - **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[major revision\]**
    
-  **Fan Zhang**, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li, Malu Zhang.
+  **Fan Zhang**,  Malu Zhang#, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li.
   
   
 - **Taming the heterogeneous dynamics in ocean chlorophyll-a concentration prediction with a deep learning model.** 
