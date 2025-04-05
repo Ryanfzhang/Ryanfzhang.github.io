@@ -41,7 +41,7 @@ My research interests include:
 
 - **Pessimistic Auxiliary Policy for Offline Reinforcement Learning. \[under review\]**
   
-  Chunlong Fu, **Fan Zhang#** , Luo Tong, Xin Zhang, Siying Wang, Guofang Liu, Teng Sheng
+  **Fan Zhang#** , Xin Xu, Xin Zhang, Siying Wang
 
 - **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[major revision\]**
    
