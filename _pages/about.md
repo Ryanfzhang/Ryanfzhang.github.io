@@ -54,6 +54,12 @@ My research interests include:
   
 
 ## Publications
+- **BoilerNet: Deep reinforcement learning-based combustion optimization network for pulverized coal boiler. \[[Energy](https://www.sciencedirect.com/science/article/pii/S0360544225004463)\]**
+
+  Zhi Wang, Yongbo Yin, Guojia Yao, Kuangyu Li, Yang Liu, Xuanqi Liu, Zhenhao Tang, **Fan Zhang**, Xianyong Peng#, Jinxing Lin, Hang Zhu, Huaichun Zhou
+
+  *Energy, doi: https://doi.org/10.1016/j.energy.2025.134804*
+  
 - **Decoupled Feature Matching for Few-shot Counting and Localization. \[[ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10887922)\]**
 
   Chao Zhai, **Fan Zhang**, Wenyu Chen#, Malu Zhang, Fan Li, Xuanting Xie.
