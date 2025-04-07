@@ -54,6 +54,13 @@ My research interests include:
   
 
 ## Publications
+- **Decoupled Feature Matching for Few-shot Counting and Localization. \[[ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10887922)\]**
+
+  Chao Zhai, **Fan Zhang**, Wenyu Chen#, Malu Zhang, Fan Li, Xuanting Xie.
+
+  *2025 International Conference on Acoustics, Speech, and Signal Processing*
+
+  
 - **Class-Agnostic Counting and Localization with Feature Augmentation and Scale-Adaptive Aggregation. \[[Knowledge-Based Systems](https://doi.org/10.1016/j.knosys.2024.112104)\]**  
 
   Chao Zhai, Yuhui Du, Hong Qu, Tianlei Wang, **Fan Zhang**, Mingsheng Fu, Wenyu Chen#.
