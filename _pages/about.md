@@ -30,7 +30,7 @@ My research interests include:
 
 # 📝 Publications 
 ## Preprints
-- **AI-powered spatiotemporal imputation and prediction of chlorophyll-a concentration in coastal oceans  \[Major revision\]**
+- **AI-powered spatiotemporal imputation and prediction of chlorophyll-a concentration in coastal oceans  \[Nature Communications\]\[Major revision\]**
 
   **Fan Zhang**, Hiusuet Kung, Fa Zhang, Can Yang#, Jianping Gan#.
   
@@ -43,7 +43,7 @@ My research interests include:
   
   **Fan Zhang** , Xin Xu, Xin Zhang, Siying Wang#
 
-- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[major revision\]**
+- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[IEEE Transactions on Neural Networks and Learning Systems\]\[major revision\]**
    
   **Fan Zhang**,  Malu Zhang#, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li.
   
