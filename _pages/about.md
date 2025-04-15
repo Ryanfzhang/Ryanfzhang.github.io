@@ -33,21 +33,22 @@ My research interests include:
 - **AI-powered spatiotemporal imputation and prediction of chlorophyll-a concentration in coastal oceans  \[Nature Communications\]\[Major revision\]**
 
   **Fan Zhang**, Hiusuet Kung, Fa Zhang, Can Yang#, Jianping Gan#.
-  
+
+- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[major revision\]**
+   
+  **Fan Zhang**,  Malu Zhang#, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li.
 
 - **GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks. \[[arxiv](https://arxiv.org/abs/2406.13597)\]**
    
   **Fan Zhang**, Xin Zhang#.
 
+- **A Heterogeneous Value Decomposition Policy Fusion Scheme for Multi-Agent Cooperation \[under review\]**
+  Siying Wang, Yang Zhou, Ruoning Zhang, Zhitong Zhao, **Fan Zhang#**, Jinliang Shao, Yuhua Cheng
+
 - **Pessimistic Auxiliary Policy for Offline Reinforcement Learning. \[under review\]**
   
   **Fan Zhang** , Xin Xu, Xin Zhang, Siying Wang#
 
-- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[major revision\]**
-   
-  **Fan Zhang**,  Malu Zhang#, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li.
-  
-  
 - **Taming the heterogeneous dynamics in ocean chlorophyll-a concentration prediction with a deep learning model.** 
 
   Fa Zhang, Hiusuet Kung, **Fan Zhang**, Zhiwei Wang, Can Yang#, Jianping Gan#.
