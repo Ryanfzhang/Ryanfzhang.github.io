@@ -43,6 +43,7 @@ My research interests include:
   **Fan Zhang**, Xin Zhang#.
 
 - **A Heterogeneous Value Decomposition Policy Fusion Scheme for Multi-Agent Cooperation \[under review\]**
+  
   Siying Wang, Yang Zhou, Ruoning Zhang, Zhitong Zhao, **Fan Zhang#**, Jinliang Shao, Yuhua Cheng
 
 - **Pessimistic Auxiliary Policy for Offline Reinforcement Learning. \[under review\]**
