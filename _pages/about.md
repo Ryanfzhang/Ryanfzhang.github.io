@@ -25,14 +25,13 @@ My research interests include:
 
 
 # 🔥 News
+- *2025.06*: 🎉 One paper was accepted by Nature Communications.
 - *2023.10*: 🎉 Join YangLab@HKUST as Postdoctoral Associate.
 
 
 # 📝 Publications 
 ## Preprints
-- **AI-powered spatiotemporal imputation and prediction of chlorophyll-a concentration in coastal oceans  \[Nature Communications\]\[Major revision\]**
 
-  **Fan Zhang**, Hiusuet Kung, Fa Zhang, Can Yang#, Jianping Gan#.
 
 - **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[IEEE Transactions\]\[Minor revision\]**
    
@@ -56,6 +55,10 @@ My research interests include:
   
 
 ## Publications
+
+- **AI-powered spatiotemporal imputation and prediction of chlorophyll-a concentration in coastal oceans  \[Nature Communications\]**
+
+  **Fan Zhang**, Hiusuet Kung, Fa Zhang, Can Yang#, Jianping Gan#.
   
 - **Decoupled Feature Matching for Few-shot Counting and Localization. \[[ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10887922)\]**
 
