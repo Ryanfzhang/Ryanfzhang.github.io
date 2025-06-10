@@ -25,7 +25,7 @@ My research interests include:
 
 
 # 🔥 News
-- *2025.06*: 🎉 One paper was accepted by Nature Communications.
+- *2025.06*: 🎉 One paper was accepted by **Nature Communications**.
 - *2023.10*: 🎉 Join YangLab@HKUST as Postdoctoral Associate.
 
 
