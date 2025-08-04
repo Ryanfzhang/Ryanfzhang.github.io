@@ -34,9 +34,7 @@ My research interests include:
 ## Preprints
 
 
-- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[IEEE Transactions\]\[Minor revision\]**
-   
-  **Fan Zhang**,  Malu Zhang#, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li.
+
 
 - **GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks. \[[arxiv](https://arxiv.org/abs/2406.13597)\]**
    
@@ -48,7 +46,7 @@ My research interests include:
 
 - **Pessimistic Auxiliary Policy for Offline Reinforcement Learning. \[Under review\]**
   
-  **Fan Zhang** , Xin Xu, Ruiyi Zhang, Xin Zhang, Siying Wang#
+  **Fan Zhang** , Xin Xu, Hongrui Wang, Jianxu Zhao, Xin Zhang#
 
 - **Taming the heterogeneous dynamics in ocean chlorophyll-a concentration prediction with a deep learning model.** 
 
@@ -56,6 +54,11 @@ My research interests include:
   
 
 ## Publications
+
+- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[IEEE Transactions on Neural Networks and Learning Systems\]**
+   
+  **Fan Zhang**,  Malu Zhang#, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li.
+  
 
 - **AI-powered spatiotemporal imputation and prediction of chlorophyll-a concentration in coastal oceans  \[Nature Communications\]**
 
