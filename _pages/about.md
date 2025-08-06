@@ -129,10 +129,11 @@ My research interests include:
 
 # 💬 Service
 **Invited Journal Reviewer**:
-- IEEE Transactions on Cybernetics, Advanced Engineering Informatics, Neurocomputing, IEEE/CAA Journal of Automatica Sinica
+- IEEE Transactions on Cybernetics, Knowledge-based System, Advanced Engineering Informatics, Neurocomputing, IEEE/CAA Journal of Automatica Sinica
   
 **Invited Conference Reviewer**:
 - IJCNN (2021, 2022)
+- AAAI (2026)
 
 # 📖 Teaching
 - 2019.09-2020.06, Finite Automata Theory, Teaching Assistant, UESTC.
