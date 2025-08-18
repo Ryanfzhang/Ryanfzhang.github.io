@@ -60,7 +60,7 @@ My research interests include:
   **Fan Zhang**,  Malu Zhang#, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li.
   
 
-- **AI-powered spatiotemporal imputation and prediction of chlorophyll-a concentration in coastal oceans  \[Nature Communications\]**
+- **AI-powered spatiotemporal imputation and prediction of chlorophyll-a concentration in coastal oceans  \[[Nature Communications](https://www.nature.com/articles/s41467-025-62901-9)\]**
 
   **Fan Zhang**, Hiusuet Kung, Fa Zhang, Can Yang#, Jianping Gan#.
   
