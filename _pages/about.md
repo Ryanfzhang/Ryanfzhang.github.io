@@ -60,7 +60,7 @@ My research interests include:
   **Fan Zhang**,  Malu Zhang#, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li.
   
 
-- **AI-powered spatiotemporal imputation and prediction of chlorophyll-a concentration in coastal oceans  \[[Nature Communications](https://www.nature.com/articles/s41467-025-62901-9)\]**
+- **AI-powered spatiotemporal imputation and prediction of chlorophyll-a concentration in coastal oceans  \[[Nature Communications](https://www.nature.com/articles/s41467-025-62901-9)\]\[[Code](https://github.com/YangLabHKUST/STIMP)\]**
 
   **Fan Zhang**, Hiusuet Kung, Fa Zhang, Can Yang#, Jianping Gan#.
   
@@ -113,7 +113,7 @@ My research interests include:
 
   *IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3215596.*
 
-- **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9657486)\]**
+- **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9657486)\]\[[Code](https://github.com/Ryanfzhang/An-Attention-Based-Interactive-Learning-to-Rank-Model-for-Document-Retrieval)\]**
 
   **Fan Zhang**, Wenyu Chen, Mingsheng Fu, Fan Li, Hong Qu#, Zhang Yi.
 
