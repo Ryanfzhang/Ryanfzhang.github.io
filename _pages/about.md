@@ -25,8 +25,8 @@ My research interests include:
 
 
 # 🔥 News
-- *2025.07*: 🎉 One paper was accepted by **IEEE Transactions on Neural Networks and Learning Systems**.
-- *2025.06*: 🎉 One paper was accepted by **Nature Communications**.
+- *2025.09*: 🎉 One paper was accepted by **IEEE Transactions on Neural Networks and Learning Systems**.
+- *2025.08*: 🎉 One paper was accepted by **Nature Communications**.
 - *2023.10*: 🎉 Join YangLab@HKUST as Postdoctoral Associate.
 
 
