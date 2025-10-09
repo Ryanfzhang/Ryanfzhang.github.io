@@ -134,6 +134,7 @@ My research interests include:
 **Invited Conference Reviewer**:
 - IJCNN (2021, 2022)
 - AAAI (2026)
+- ICLR (2026)
 
 # 📖 Teaching
 - 2019.09-2020.06, Finite Automata Theory, Teaching Assistant, UESTC.
