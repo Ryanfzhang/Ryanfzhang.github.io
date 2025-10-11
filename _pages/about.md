@@ -55,9 +55,9 @@ My research interests include:
 
 ## Publications
 
-- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[IEEE Transactions on Neural Networks and Learning Systems\]**
+- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/document/11197576)\]**
    
-  **Fan Zhang**,  Malu Zhang#, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li.
+  **Fan Zhang**,  Malu Zhang#, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li, Yang Yang.
   
 
 - **AI-powered spatiotemporal imputation and prediction of chlorophyll-a concentration in coastal oceans  \[[Nature Communications](https://www.nature.com/articles/s41467-025-62901-9)\]\[[Code](https://github.com/YangLabHKUST/STIMP)\]**
