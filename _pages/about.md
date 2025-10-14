@@ -63,6 +63,12 @@ My research interests include:
 - **AI-powered Spatiotemporal Imputation and Prediction of Chlorophyll-a Concentration in Coastal Oceans  \[[Nature Communications](https://www.nature.com/articles/s41467-025-62901-9)\]\[[Code](https://github.com/YangLabHKUST/STIMP)\]**
 
   **Fan Zhang**, Hiusuet Kung, Fa Zhang, Can Yang#, Jianping Gan#.
+
+- **Sequence value decomposition transformer for cooperative multi-agent reinforcement learning \[[Information Science](https://www.sciencedirect.com/science/article/pii/S0020025525006462)\]**
+  
+  Zhitong Zhao, Ya Zhang, Wenyu Chen, **Fan Zhang**, Siying Wang, Yang Zhou
+
+  *Information Science, 2025, 122514*
   
 - **Decoupled Feature Matching for Few-shot Counting and Localization. \[[ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10887922)\]**
 
