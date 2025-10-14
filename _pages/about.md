@@ -46,7 +46,7 @@ My research interests include:
 
 - **Pessimistic Auxiliary Policy for Offline Reinforcement Learning. \[Under review\]**
   
-  **Fan Zhang** , Xin Xu, Hongrui Wang, Jianxu Zhao, Xin Zhang#
+  **Fan Zhang** , Hongrui Wang, Baoru Huang, Xin Zhang#
 
 - **Taming the heterogeneous dynamics in ocean chlorophyll-a concentration prediction with a deep learning model.** 
 
