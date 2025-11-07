@@ -59,13 +59,13 @@ My research interests include:
 
 ## Publications
 
-- **GPAS: Accelerating Convergence of LLM Pretraining via Gradient-Preserving Activation Scaling \[[Paper](https://arxiv.org/abs/2506.22049)\}**
+- **GPAS: Accelerating Convergence of LLM Pretraining via Gradient-Preserving Activation Scaling \[[Paper](https://arxiv.org/abs/2506.22049)\]**
 
   Tianhao Chen, Xin Xu, Zijing Liu, Pengxiang Li, Xinyuan Song, Ajay Kumar Jaiswal, **Fan Zhang**, Jishan Hu, Yang Wang, Hao Chen, Shizhe Diao, Shiwei Liu, Yu Li, Lu Yin, Can Yang
 
-  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems*
+  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeuIPS 2025**)*
 
-- **Toward Energy-Efficient Spike-Based Deep Reinforcement Learning With Temporal Coding \[[Paper](https://ieeexplore.ieee.org/abstract/document/10976463)\}**
+- **Toward Energy-Efficient Spike-Based Deep Reinforcement Learning With Temporal Coding \[[Paper](https://ieeexplore.ieee.org/abstract/document/10976463)\]**
 
   Malu Zhang, Shuai Wang, Jibin Wu, Wenjie Wei, Dehao Zhang, Zijian Zhou, Siying Wang, **Fan Zhang**, Yang Yang
   
