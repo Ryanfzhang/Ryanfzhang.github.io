@@ -59,17 +59,17 @@ My research interests include:
 
 ## Publications
 
--**GPAS: Accelerating Convergence of LLM Pretraining via Gradient-Preserving Activation Scaling \[[Paper](https://arxiv.org/abs/2506.22049)\}**
+- **GPAS: Accelerating Convergence of LLM Pretraining via Gradient-Preserving Activation Scaling \[[Paper](https://arxiv.org/abs/2506.22049)\}**
 
-    Tianhao Chen, Xin Xu, Zijing Liu, Pengxiang Li, Xinyuan Song, Ajay Kumar Jaiswal, **Fan Zhang**, Jishan Hu, Yang Wang, Hao Chen, Shizhe Diao, Shiwei Liu, Yu Li, Lu Yin, Can Yang
+  Tianhao Chen, Xin Xu, Zijing Liu, Pengxiang Li, Xinyuan Song, Ajay Kumar Jaiswal, **Fan Zhang**, Jishan Hu, Yang Wang, Hao Chen, Shizhe Diao, Shiwei Liu, Yu Li, Lu Yin, Can Yang
 
-   *The Thirty-Ninth Annual Conference on Neural Information Processing Systems*
+  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems*
 
--**Toward Energy-Efficient Spike-Based Deep Reinforcement Learning With Temporal Coding \[[Paper](https://ieeexplore.ieee.org/abstract/document/10976463)\}**
+- **Toward Energy-Efficient Spike-Based Deep Reinforcement Learning With Temporal Coding \[[Paper](https://ieeexplore.ieee.org/abstract/document/10976463)\}**
 
-    Malu Zhang, Shuai Wang, Jibin Wu, Wenjie Wei, Dehao Zhang, Zijian Zhou, Siying Wang, **Fan Zhang**, Yang Yang
+  Malu Zhang, Shuai Wang, Jibin Wu, Wenjie Wei, Dehao Zhang, Zijian Zhou, Siying Wang, **Fan Zhang**, Yang Yang
   
-    *IEEE Computational Intelligence Magazine, 2025, 20(2): 45-57*
+  *IEEE Computational Intelligence Magazine, 2025, 20(2): 45-57*
 
 
 - **Sequence value decomposition transformer for cooperative multi-agent reinforcement learning \[[Paper](https://www.sciencedirect.com/science/article/pii/S0020025525006462)\]**
