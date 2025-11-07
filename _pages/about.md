@@ -37,13 +37,16 @@ My research interests include:
 
   **Fan Zhang**, Hiusuet Kung, Fa Zhang, Can Yang#, Jianping Gan#.
 
+  *Nature Communications, 2025, 16(1): 7656.*
 
-- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/document/11197576)\]**
+
+- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[[Paper](https://ieeexplore.ieee.org/document/11197576)\]**
    
   **Fan Zhang**,  Malu Zhang#, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li, Yang Yang.
 
+  *IEEE Transactions on Neural Networks and Learning Systems, doi:10.1109/TNNLS.2025.3615982*
   
-- **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9657486)\]\[[Code](https://github.com/Ryanfzhang/An-Attention-Based-Interactive-Learning-to-Rank-Model-for-Document-Retrieval)\]**
+- **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[Paper](https://ieeexplore.ieee.org/document/9657486)\]\[[Code](https://github.com/Ryanfzhang/An-Attention-Based-Interactive-Learning-to-Rank-Model-for-Document-Retrieval)\]**
 
   **Fan Zhang**, Wenyu Chen, Mingsheng Fu, Fan Li, Hong Qu#, Zhang Yi.
 
@@ -60,56 +63,56 @@ My research interests include:
 
 
 
-- **Sequence value decomposition transformer for cooperative multi-agent reinforcement learning \[[Information Science](https://www.sciencedirect.com/science/article/pii/S0020025525006462)\]**
+- **Sequence value decomposition transformer for cooperative multi-agent reinforcement learning \[[Paper](https://www.sciencedirect.com/science/article/pii/S0020025525006462)\]**
   
   Zhitong Zhao, Ya Zhang, Wenyu Chen, **Fan Zhang**, Siying Wang, Yang Zhou
 
   *Information Science, 2025, 122514*
   
-- **Decoupled Feature Matching for Few-shot Counting and Localization. \[[ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10887922)\]**
+- **Decoupled Feature Matching for Few-shot Counting and Localization. \[[Paper](https://ieeexplore.ieee.org/abstract/document/10887922)\]**
 
   Chao Zhai, **Fan Zhang**, Wenyu Chen#, Malu Zhang, Fan Li, Xuanting Xie.
 
   *2025 International Conference on Acoustics, Speech, and Signal Processing*
 
   
-- **Class-Agnostic Counting and Localization with Feature Augmentation and Scale-Adaptive Aggregation. \[[Knowledge-Based Systems](https://doi.org/10.1016/j.knosys.2024.112104)\]**  
+- **Class-Agnostic Counting and Localization with Feature Augmentation and Scale-Adaptive Aggregation. \[[Paper](https://doi.org/10.1016/j.knosys.2024.112104)\]**  
 
   Chao Zhai, Yuhui Du, Hong Qu, Tianlei Wang, **Fan Zhang**, Mingsheng Fu, Wenyu Chen#.
 
   *Knowledge-Based Systems, 2024, 112104*
   
-- **QDAP: Downsizing adaptive policy for cooperative multi-agent reinforcement learning. \[[Knowledge-Based Systems](https://doi.org/10.1016/j.knosys.2024.111719)\]**
+- **QDAP: Downsizing adaptive policy for cooperative multi-agent reinforcement learning. \[[Paper](https://doi.org/10.1016/j.knosys.2024.111719)\]**
 
   Zhitong Zhao, Ya Zhang, Siying Wang, **Fan Zhang**, Malu Zhang, Wenyu Chen.
 
   *Knowledge-Based Systems, 2024, 294: 111719*
 
-- **A novel self-supervised representation learning framework based on time-frequency alignment and interaction for mechanical fault diagnosis. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705124004805?via%3Dihub)\]**
+- **A novel self-supervised representation learning framework based on time-frequency alignment and interaction for mechanical fault diagnosis. \[[Paper](https://www.sciencedirect.com/science/article/pii/S0950705124004805?via%3Dihub)\]**
 
   Daxing Fu, Jie Liu, Hao Zhong, Xin Zhang#, **Fan Zhang**.
 
   *Knowledge-Based Systems, 2024: 111846*
 
-- **A pruned-optimized weighted graph convolutional network for axial flow pump fault diagnosis with hydrophone signals. \[[Advanced Engineering Informatics](https://www.sciencedirect.com/science/article/pii/S1474034624000132?via%3Dihub)\]**
+- **A pruned-optimized weighted graph convolutional network for axial flow pump fault diagnosis with hydrophone signals. \[[Paper](https://www.sciencedirect.com/science/article/pii/S1474034624000132?via%3Dihub)\]**
 
   Xin Zhang, Li Jiang, Lei Wang, Tianao Zhang, **Fan Zhang**.
 
   *Advanced Engineering Informatics, 2024, 60: 102365*
 
-- **Regularization-Adapted Anderson Acceleration for multi-agent reinforcement learning. \[[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705123004598?via%3Dihub)\]**
+- **Regularization-Adapted Anderson Acceleration for multi-agent reinforcement learning. \[[Paper](https://www.sciencedirect.com/science/article/pii/S0950705123004598?via%3Dihub)\]**
 
   Siying Wang, Wenyu Chen, Liwei Huang, **Fan Zhang**, Zhitong Zhao, Hong Qu#.
 
   *Knowledge-Based Systems.  2023, 275: 110709.*
 
-- **Neural Reranking-Based Collaborative Filtering by Leveraging Listwise Relative Ranking Information. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9834323)\]**
+- **Neural Reranking-Based Collaborative Filtering by Leveraging Listwise Relative Ranking Information. \[[Paper](https://ieeexplore.ieee.org/document/9834323)\]**
 
   Fan Li, Hong Qu#, Mingsheng Fu, Liyan Zhang, **Fan Zhang**, Wenyu Chen, Ruixuan Sun, Haixian Zhang.
 
   *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2023, 53(2): 882-896.*
 
-- **Improving Exploration in Actor-Critic with Weakly-pessimistic Value Estimation and Optimistic Policy Optimization. \[[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/document/9932556)\]**
+- **Improving Exploration in Actor-Critic with Weakly-pessimistic Value Estimation and Optimistic Policy Optimization. \[[Paper](https://ieeexplore.ieee.org/document/9932556)\]**
 
   Fan Li, Mingsheng Fu#, Wenyu Chen, **Fan Zhang**, Haixian Zhang, Hong Qu#, Zhang Yi.
 
@@ -119,7 +122,7 @@ My research interests include:
 ## Preprints
 
 
-- **GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks. \[[arxiv](https://arxiv.org/abs/2406.13597)\]**
+- **GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks. \[[Paper](https://arxiv.org/abs/2406.13597)\]**
    
   **Fan Zhang**, Xin Zhang#.
 
