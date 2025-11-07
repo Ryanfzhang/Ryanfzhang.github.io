@@ -43,34 +43,14 @@ My research interests include:
   **Fan Zhang**,  Malu Zhang#, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li, Yang Yang.
 
   
-
-  - **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9657486)\]\[[Code](https://github.com/Ryanfzhang/An-Attention-Based-Interactive-Learning-to-Rank-Model-for-Document-Retrieval)\]**
+- **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9657486)\]\[[Code](https://github.com/Ryanfzhang/An-Attention-Based-Interactive-Learning-to-Rank-Model-for-Document-Retrieval)\]**
 
   **Fan Zhang**, Wenyu Chen, Mingsheng Fu, Fan Li, Hong Qu#, Zhang Yi.
 
   *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2022, 52(9): 5770-5782.*
   
   
-## Preprints
 
-
-
-
-- **GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks. \[[arxiv](https://arxiv.org/abs/2406.13597)\]**
-   
-  **Fan Zhang**, Xin Zhang#.
-
-- **A Heterogeneous Value Decomposition Policy Fusion Scheme for Multi-Agent Cooperation \[Under review\]**
-  
-  Siying Wang, Yang Zhou, Ruoning Zhang, Zhitong Zhao, **Fan Zhang#**, Jinliang Shao, Yuhua Cheng
-
-- **Pessimistic Auxiliary Policy for Offline Reinforcement Learning. \[Under review\]**
-  
-  **Fan Zhang** , Hongrui Wang, Baoru Huang, Xin Zhang#
-
-- **Taming the heterogeneous dynamics in ocean chlorophyll-a concentration prediction with a deep learning model.** 
-
-  Fa Zhang, Hiusuet Kung, **Fan Zhang**, Zhiwei Wang, Can Yang#, Jianping Gan#.
   
 
 ## Publications
@@ -136,7 +116,24 @@ My research interests include:
   *IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3215596.*
 
 
+## Preprints
 
+
+- **GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks. \[[arxiv](https://arxiv.org/abs/2406.13597)\]**
+   
+  **Fan Zhang**, Xin Zhang#.
+
+- **A Heterogeneous Value Decomposition Policy Fusion Scheme for Multi-Agent Cooperation \[Under review\]**
+  
+  Siying Wang, Yang Zhou, Ruoning Zhang, Zhitong Zhao, **Fan Zhang#**, Jinliang Shao, Yuhua Cheng
+
+- **Pessimistic Auxiliary Policy for Offline Reinforcement Learning. \[Under review\]**
+  
+  **Fan Zhang** , Hongrui Wang, Baoru Huang, Xin Zhang#
+
+- **Taming the heterogeneous dynamics in ocean chlorophyll-a concentration prediction with a deep learning model.** 
+
+  Fa Zhang, Hiusuet Kung, **Fan Zhang**, Zhiwei Wang, Can Yang#, Jianping Gan#.
 
 # 💻 Professional Experience
 - *2023.10 - Now*, Postdoctoral Associate, The Hong Kong University of Science and Technology.
