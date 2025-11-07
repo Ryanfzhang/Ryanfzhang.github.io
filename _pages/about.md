@@ -31,6 +31,26 @@ My research interests include:
 
 
 # 📝 Publications 
+
+## Selected Publications
+- **AI-powered Spatiotemporal Imputation and Prediction of Chlorophyll-a Concentration in Coastal Oceans  \[[Nature Communications](https://www.nature.com/articles/s41467-025-62901-9)\]\[[Code](https://github.com/YangLabHKUST/STIMP)\]**
+
+  **Fan Zhang**, Hiusuet Kung, Fa Zhang, Can Yang#, Jianping Gan#.
+
+
+- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/document/11197576)\]**
+   
+  **Fan Zhang**,  Malu Zhang#, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li, Yang Yang.
+
+  
+
+  - **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9657486)\]\[[Code](https://github.com/Ryanfzhang/An-Attention-Based-Interactive-Learning-to-Rank-Model-for-Document-Retrieval)\]**
+
+  **Fan Zhang**, Wenyu Chen, Mingsheng Fu, Fan Li, Hong Qu#, Zhang Yi.
+
+  *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2022, 52(9): 5770-5782.*
+  
+  
 ## Preprints
 
 
@@ -55,14 +75,10 @@ My research interests include:
 
 ## Publications
 
-- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/document/11197576)\]**
-   
-  **Fan Zhang**,  Malu Zhang#, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li, Yang Yang.
+
   
 
-- **AI-powered Spatiotemporal Imputation and Prediction of Chlorophyll-a Concentration in Coastal Oceans  \[[Nature Communications](https://www.nature.com/articles/s41467-025-62901-9)\]\[[Code](https://github.com/YangLabHKUST/STIMP)\]**
 
-  **Fan Zhang**, Hiusuet Kung, Fa Zhang, Can Yang#, Jianping Gan#.
 
 - **Sequence value decomposition transformer for cooperative multi-agent reinforcement learning \[[Information Science](https://www.sciencedirect.com/science/article/pii/S0020025525006462)\]**
   
@@ -119,11 +135,7 @@ My research interests include:
 
   *IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3215596.*
 
-- **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/9657486)\]\[[Code](https://github.com/Ryanfzhang/An-Attention-Based-Interactive-Learning-to-Rank-Model-for-Document-Retrieval)\]**
 
-  **Fan Zhang**, Wenyu Chen, Mingsheng Fu, Fan Li, Hong Qu#, Zhang Yi.
-
-  *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2022, 52(9): 5770-5782.*
 
 
 # 💻 Professional Experience
