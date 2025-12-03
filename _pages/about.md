@@ -147,6 +147,10 @@ My research interests include:
 
   Fa Zhang, Hiusuet Kung, **Fan Zhang**, Zhiwei Wang, Can Yang#, Jianping Gan#.
 
+- **SyncTrack: Rhythmic Stability and Synchronization in Multi-Track Music Generation.**
+
+  Hongrui Wang, **Fan Zhang#**,  Zhiyuan Yu, Ziya Zhou, Xi Chen, Can Yang, Yang Wang# 
+
 # 💻 Professional Experience
 - *2023.10 - Now*, Postdoctoral Associate, The Hong Kong University of Science and Technology.
   
