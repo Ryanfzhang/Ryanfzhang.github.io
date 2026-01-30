@@ -46,6 +46,12 @@ My research interests include:
   **Fan Zhang**,  Malu Zhang#, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li, Yang Yang.
 
   *IEEE Transactions on Neural Networks and Learning Systems, doi:10.1109/TNNLS.2025.3615982*
+
+- **SyncTrack: Rhythmic Stability and Synchronization in Multi-Track Music Generation.**
+
+  Hongrui Wang*, **Fan Zhang\*,#**,  Zhiyuan Yu, Ziya Zhou, Xi Chen, Can Yang, Yang Wang#
+
+  *The Fourteenth International Conference on Learning Representations (**ICLR2026**)*
   
 - **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[Paper](https://ieeexplore.ieee.org/document/9657486)\]\[[Code](https://github.com/Ryanfzhang/An-Attention-Based-Interactive-Learning-to-Rank-Model-for-Document-Retrieval)\]**
 
@@ -64,6 +70,7 @@ My research interests include:
   Tianhao Chen, Xin Xu, Zijing Liu, Pengxiang Li, Xinyuan Song, Ajay Kumar Jaiswal, **Fan Zhang**, Jishan Hu, Yang Wang, Hao Chen, Shizhe Diao, Shiwei Liu, Yu Li, Lu Yin, Can Yang
 
   *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeuIPS 2025**)*
+  
 
 - **Toward Energy-Efficient Spike-Based Deep Reinforcement Learning With Temporal Coding \[[Paper](https://ieeexplore.ieee.org/abstract/document/10976463)\]**
 
@@ -147,9 +154,6 @@ My research interests include:
 
   Fa Zhang, Hiusuet Kung, **Fan Zhang**, Zhiwei Wang, Can Yang#, Jianping Gan#.
 
-- **SyncTrack: Rhythmic Stability and Synchronization in Multi-Track Music Generation.**
-
-  Hongrui Wang, **Fan Zhang#**,  Zhiyuan Yu, Ziya Zhou, Xi Chen, Can Yang, Yang Wang# 
 
 # 💻 Professional Experience
 - *2023.10 - Now*, Postdoctoral Associate, The Hong Kong University of Science and Technology.
