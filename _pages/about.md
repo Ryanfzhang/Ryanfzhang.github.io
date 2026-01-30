@@ -49,7 +49,7 @@ My research interests include:
 
 - **SyncTrack: Rhythmic Stability and Synchronization in Multi-Track Music Generation.**
 
-  Hongrui Wang*, **Fan Zhang\*,#**,  Zhiyuan Yu, Ziya Zhou, Xi Chen, Can Yang, Yang Wang#
+  Hongrui Wang*, **Fan Zhang\* #**,  Zhiyuan Yu, Ziya Zhou, Xi Chen, Can Yang, Yang Wang#
 
   *The Fourteenth International Conference on Learning Representations (**ICLR2026**)*
   
