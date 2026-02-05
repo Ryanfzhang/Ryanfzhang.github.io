@@ -165,7 +165,7 @@ My research interests include:
 
 # 💬 Service
 **Invited Journal Reviewer**:
-- IEEE Transactions on Cybernetics, Knowledge-based System, Advanced Engineering Informatics, Neurocomputing, Information Science, IEEE/CAA Journal of Automatica Sinica, Engineering Applications of Artificial Intelligence
+- IEEE Transactions on Cybernetics, IEEE Computational Intelligence Magazine, Knowledge-based System, Advanced Engineering Informatics, Neurocomputing, Information Science, IEEE/CAA Journal of Automatica Sinica, Engineering Applications of Artificial Intelligence, Transportation Research Part C
   
 **Invited Conference Reviewer**:
 - IJCNN (2021, 2022)
