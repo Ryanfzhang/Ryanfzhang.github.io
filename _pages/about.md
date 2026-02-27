@@ -147,7 +147,7 @@ My research interests include:
   
   Siying Wang, Yang Zhou, Ruoning Zhang, Zhitong Zhao, **Fan Zhang#**, Jinliang Shao, Yuhua Cheng
 
-- **Pessimistic Auxiliary Policy for Offline Reinforcement Learning. \[Under review\]**
+- **Pessimistic Auxiliary Policy for Offline Reinforcement Learning. \[[Paper]()\]**
   
   **Fan Zhang** , Hongrui Wang, Baoru Huang, Xin Zhang#
 
