@@ -66,6 +66,11 @@ My research interests include:
   
 
 ## Publications
+- **Graph-based Understanding of Isomeric Diversity in Complex Dissolved Organic Matter**
+
+  Tongcun Liu, Yuanbi Yi, Chen Zhao, Zekun Zhang, Julian Merder, Andrew Tanentzap, Zhenwei Yan, Fan Zhang, Hailin Feng, Can Yang, Ding He
+
+  *Nature Communications Chemistry*
 
 - **GPAS: Accelerating Convergence of LLM Pretraining via Gradient-Preserving Activation Scaling \[[Paper](https://arxiv.org/abs/2506.22049)\]**
 
