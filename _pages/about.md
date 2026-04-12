@@ -25,6 +25,7 @@ My research interests include:
 
 
 # 🔥 News
+- *2026.04*：🎉 One paper was accepted by **Nature Communications Chemistry**.
 - *2026.01*: 🎉 One paper was accepted by **ICLR2026**.
 - *2025.09*: 🎉 One paper was accepted by **IEEE Transactions on Neural Networks and Learning Systems**.
 - *2025.08*: 🎉 One paper was accepted by **Nature Communications**.
