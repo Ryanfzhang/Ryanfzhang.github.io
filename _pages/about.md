@@ -144,7 +144,10 @@ My research interests include:
 
 ## Preprints
 
+- **Flow-matching based State-stitching Offline Reinforcement Learning \[Under review\]**
 
+  **Fan Zhang**, Xin Xu, Min Yang, Shuqing Shi#
+  
 - **GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks. \[[Paper](https://arxiv.org/abs/2406.13597)\]**
    
   **Fan Zhang**, Xin Zhang#.
@@ -153,9 +156,9 @@ My research interests include:
   
   Siying Wang, Yang Zhou, Ruoning Zhang, Zhitong Zhao, **Fan Zhang#**, Jinliang Shao, Yuhua Cheng
 
-- **Pessimistic Auxiliary Policy for Offline Reinforcement Learning. \[[Paper]()\]**
+- **Pessimistic Auxiliary Policy for Offline Reinforcement Learning.**
   
-  **Fan Zhang** , Hongrui Wang, Baoru Huang, Xin Zhang#
+  **Fan Zhang** , Baoru Huang, Xin Zhang#
 
 - **Taming the heterogeneous dynamics in ocean chlorophyll-a concentration prediction with a deep learning model.** 
 
