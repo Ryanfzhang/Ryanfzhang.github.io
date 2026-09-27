@@ -66,6 +66,12 @@ My research interests include:
   
 
 ## Publications
+- **Taming the heterogeneous dynamics in ocean chlorophyll-a concentration prediction with a deep learning model.\[[Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JH001314)\]** 
+
+  Fa Zhang, Hiusuet Kung, **Fan Zhang**, Zhiwei Wang, Can Yang#, Jianping Gan#.
+
+  *Journal of Geophysical Research: Machine Learning and Computation*
+  
 - **Graph-based Understanding of Isomeric Diversity in Complex Dissolved Organic Matter**
 
   Tongcun Liu, Yuanbi Yi, Chen Zhao, Zekun Zhang, Julian Merder, Andrew Tanentzap, Zhenwei Yan, Fan Zhang, Hailin Feng, Can Yang, Ding He
@@ -160,9 +166,7 @@ My research interests include:
   
   **Fan Zhang** , Baoru Huang, Xin Zhang#
 
-- **Taming the heterogeneous dynamics in ocean chlorophyll-a concentration prediction with a deep learning model.** 
 
-  Fa Zhang, Hiusuet Kung, **Fan Zhang**, Zhiwei Wang, Can Yang#, Jianping Gan#.
 
 
 # 💻 Professional Experience
