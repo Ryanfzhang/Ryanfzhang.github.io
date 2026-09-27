@@ -152,7 +152,7 @@ My research interests include:
 
 - **OceanMind: Amulti-agent AIsystem forocean diagnosis.**
    
-  **Fan Zhang**, Weicong Cheng, Yuheng Chen, Hiuseut Kung, Ying Zhang, Aixi Han, QuanjiaZhong, CanYang#,Jianping Gan#.
+  **Fan Zhang**, Weicong Cheng, Yuheng Chen, Hiuseut Kung, Ying Zhang, Aixi Han, QuanjiaZhong, CanYang#, Jianping Gan#.
 
 - **Flow-matching based State-stitching Offline Reinforcement Learning \[Under review\]**
 
