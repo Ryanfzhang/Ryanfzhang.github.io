@@ -150,6 +150,10 @@ My research interests include:
 
 ## Preprints
 
+- **OceanMind: Amulti-agent AIsystem forocean diagnosis.**
+   
+  **Fan Zhang**, Weicong Cheng, Yuheng Chen, Hiuseut Kung, Ying Zhang, Aixi Han, QuanjiaZhong, CanYang#,Jianping Gan#.
+
 - **Flow-matching based State-stitching Offline Reinforcement Learning \[Under review\]**
 
   **Fan Zhang**, Xin Xu, Min Yang, Shuqing Shi#
@@ -157,10 +161,6 @@ My research interests include:
 - **GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks. \[[Paper](https://arxiv.org/abs/2406.13597)\]**
    
   **Fan Zhang**, Xin Zhang#.
-
-- **A Heterogeneous Value Decomposition Policy Fusion Scheme for Multi-Agent Cooperation \[Under review\]**
-  
-  Siying Wang, Yang Zhou, Ruoning Zhang, Zhitong Zhao, **Fan Zhang#**, Jinliang Shao, Yuhua Cheng
 
 - **Pessimistic Auxiliary Policy for Offline Reinforcement Learning.**
   
