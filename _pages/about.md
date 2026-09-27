@@ -74,7 +74,7 @@ My research interests include:
   
 - **Graph-based Understanding of Isomeric Diversity in Complex Dissolved Organic Matter**
 
-  Tongcun Liu, Yuanbi Yi, Chen Zhao, Zekun Zhang, Julian Merder, Andrew Tanentzap, Zhenwei Yan, Fan Zhang, Hailin Feng, Can Yang, Ding He
+  Tongcun Liu, Yuanbi Yi, Chen Zhao, Zekun Zhang, Julian Merder, Andrew Tanentzap, Zhenwei Yan, **Fan Zhang**, Hailin Feng, Can Yang, Ding He
 
   *Nature Communications Chemistry*
 
